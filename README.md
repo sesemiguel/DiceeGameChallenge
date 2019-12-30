@@ -7,7 +7,7 @@ Dicee Game Challenge from The App Brewery
 2. The player with the higher dice number wins
 3. Draws may occur
 
-#### Javascript
+### Javascript
 - Random number generator
 - Setting attributes
 - Setting text content
